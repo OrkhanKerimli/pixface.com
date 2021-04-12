@@ -18,13 +18,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms of 
 
 PixFace does not collect user's photos or other facial feature data. PixFace does all photo edits in the user's device - we does not send any photo or facial data to our or other servers, for that reason a user can use PixFace even without connecting to the internet.
 
-PixFace may use third party services to handle user purchases and for better understanding user experience in the App (such as time user spends in the App) and these services may collect information to identify you.
-
-‍
-
 ### Service Providers
 
-We may employ third-party companies and individuals due to assist us in analyzing how our App is used. We want to inform users of this App that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We may employ third-party companies due to assist us in analyzing how our App is used. We want to inform users of this App that these third parties have access to your Personal Information (not to photos or other facial feature data - we do not share this data with anyone). The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 ### Links to Other Sites
 
