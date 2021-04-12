@@ -4,13 +4,13 @@ title: Terms of Use
 include_in_header: false
 ---
 
-## Overview
+## Terms of Use
 
 Please read these Terms of Use ("Terms of Use", "Terms", "Terms and Conditions") carefully before using PixFace ("App"). The "**Subscription(s)**" shall mean a specified pricing plan and term length with associated features, functionality and volume tiers for App purchased by Customer.
 
-Your access to and use of the App is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all users of PixFace.
+Your use of the App is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all users of PixFace.
 
-By using PixFace you agree to be bound by these Terms. If you disagree with any part of the terms then you do not have permission to use the app.
+By using PixFace you agree to be bound by these Terms. If you disagree with any part of the terms then you do not have permission to use the App.
 
 ## Data
 
@@ -56,7 +56,7 @@ In no event shall PixFace nor its directors, employees, partners, agents, suppli
 
 Your use of the App is at your sole risk. The App is provided on an "AS IS" and "AS AVAILABLE" basis. The App is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
 
-PixFace, its subsidiaries, affiliates, and its licensors do not warrant that a) the App will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the App is free of viruses or other harmful components; or d) the results of using the App will meet your requirements.
+PixFace, its subsidiaries, affiliates, and its licensors do not warrant that a) the App will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the results of using the App will meet your requirements.
 
 ## Exclusions
 
